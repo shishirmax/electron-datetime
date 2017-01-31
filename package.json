@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shishirmax/electron-datetime/issues"
   },
-  "homepage": "https://github.com/shishirmax/electron-datetime#readme"
+  "homepage": "https://github.com/shishirmax/electron-datetime#readme",
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
 }
